@@ -1,6 +1,15 @@
+# Overview:
+Leveraging PyTorch's distributed computing capabilities, this project aims to accelerate the training of a deep learning model for lung and colon cancer image classification, harnessing the power of parallelism and GPU acceleration to achieve faster convergence and improved model performance
+
+Our choice for image classification is ResNet, a cutting-edge neural network designed for this purpose. However, its depth, while beneficial for accuracy, often leads to longer training durations. ​
+
+In an era where swift model training is crucial, the growing need for high-performance parallel computation has driven us to meet the challenge head-on by optimizing and executing our models in parallel.​
+
+To significantly reduce the training time of image classification models through efficient high parallel computation, enabling faster experimentation and deployment in real-world scenarios.​
+
 P.S. All the codes are executed on Discovery's CPUs and GPUs.
 
-Results & Analysis derived from the executions are as follows:
+# Results & Analysis derived from the executions are as follows:
 
 Images were pre-processing using following techniques:
 
