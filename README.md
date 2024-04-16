@@ -38,3 +38,6 @@ SpeedUp and Efficiency:
 <img width="425" alt="image" src="https://github.com/varshahindupur09/HighPerformanceParallelComputingProject/assets/114629181/84476e69-63ad-474e-b485-bb0612a204b0">
 
 
+Conclusion: 
+
+And, as per the result part we could train our model in 30 seconds using the parallel processing techniques and still maintain the accuracy to 93% overall.
