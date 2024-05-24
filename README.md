@@ -9,6 +9,14 @@ To significantly reduce the training time of image classification models through
 
 P.S. All the codes are executed on Discovery's CPUs and GPUs.
 
+# Methods used to increase the performance of the models:
+
+1. Serial Execution
+2. DDP (Distributed Data Parallel) on CPU
+3. DDP on GPU
+4. Model Parallelism
+5. AMP (Automatic Mixed Precision)
+
 # Results & Analysis derived from the executions are as follows:
 
 Images were pre-processing using following techniques:
