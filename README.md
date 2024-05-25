@@ -46,6 +46,8 @@ SpeedUp and Efficiency:
 <img width="425" alt="image" src="https://github.com/varshahindupur09/HighPerformanceParallelComputingProject/assets/114629181/84476e69-63ad-474e-b485-bb0612a204b0">
 
 
-Conclusion: 
+# Conclusion: 
 
 And, as per the result part we could train our model in 30 seconds using the parallel processing techniques and still maintain the accuracy to 93% overall.
+
+The procedures used were 24 times efficient when compared to Serial Executions on CPU. Speedup recieved was more than 50%. Overall, if all the model executes in 30 seconds with the use of modern compute resources, then we have achieved our goal of making the product available to consumers and businesses. 
