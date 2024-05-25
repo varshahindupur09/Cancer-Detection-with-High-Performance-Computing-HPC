@@ -51,3 +51,20 @@ SpeedUp and Efficiency:
 And, as per the result part we could train our model in 30 seconds using the parallel processing techniques and still maintain the accuracy to 93% overall.
 
 The procedures used were 24 times efficient when compared to Serial Executions on CPU. Speedup recieved was more than 50%. Overall, if all the model executes in 30 seconds with the use of modern compute resources, then we have achieved our goal of making the product available to consumers and businesses. 
+
+
+# More slides from PPT:
+
+<img width="1148" alt="image" src="https://github.com/varshahindupur09/Lung_N_Colon_Cancer_Detection_HPC/assets/114629181/ae62dda2-8763-463f-a756-f3f596bc5b11">
+<img width="1126" alt="image" src="https://github.com/varshahindupur09/Lung_N_Colon_Cancer_Detection_HPC/assets/114629181/e258bcc5-dd38-43c0-bfbe-13c24c94357e">
+<img width="1053" alt="image" src="https://github.com/varshahindupur09/Lung_N_Colon_Cancer_Detection_HPC/assets/114629181/e19ecac6-c227-4fc2-b950-ae3893630529">
+<img width="1053" alt="image" src="https://github.com/varshahindupur09/Lung_N_Colon_Cancer_Detection_HPC/assets/114629181/6b5e224b-05bb-4dd3-bf0f-d8c8e473b660">
+<img width="1061" alt="image" src="https://github.com/varshahindupur09/Lung_N_Colon_Cancer_Detection_HPC/assets/114629181/340723a6-500d-4a13-92da-a355013ca38d">
+<img width="1061" alt="image" src="https://github.com/varshahindupur09/Lung_N_Colon_Cancer_Detection_HPC/assets/114629181/e84b7839-4324-4b8d-adb4-51cdd3883e44">
+<img width="1043" alt="image" src="https://github.com/varshahindupur09/Lung_N_Colon_Cancer_Detection_HPC/assets/114629181/53ad8454-de9c-4a3c-bb5e-c2e04dcf83ff">
+
+
+
+
+
+
